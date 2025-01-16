@@ -1,10 +1,11 @@
 # Hi, I'm Phoorin Chinphuad👋
 
-- 👁️ You can simply call me, **FEEN**.
+- 🔥 You can simply call me, **FEEN**.
 - 🏫 2nd year student , **CPE37 @ KMUTT**.
-- 🔎 I’m currently exploring in **Web development, Data Modeling, Machine Learning, Deep Learning** and **Cloud Computing**
+- 🌱 I’m currently exploring in **Web development, Data Modeling, Machine Learning, Deep Learning** and **Cloud Computing**.
+- 🎯 I'm passionate about building software and hardware skills through hands-on experience.
 
-**REACH ME** pheen.phoorin@gmail.com
+📧 **REACH ME** pheen.phoorin@gmail.com
 
 ### **Programming Languages**  
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
