@@ -5,6 +5,6 @@
 - Former Data Analysis Intern @ **PTTEP**
 - Exploring the world of data, ai and software development
 
-### Contact
+# Contact
 
 [Email me](mailto:pheen.phoorin@gmail.com) · [GitHub](https://github.com/2005fpp)
