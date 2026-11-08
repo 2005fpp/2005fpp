@@ -1,4 +1,4 @@
-# hey, Im Feen .
+# Hey, Im Feen .
 
 **Phoorin Chinphuad** · 4th-year Computer Engineering student @ KMUTT (CPE37)
 
