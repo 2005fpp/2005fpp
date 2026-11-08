@@ -1,12 +1,10 @@
-# Hi, I'm Phoorin Chinphuad👋
+# hey, Im Feen .
 
-- 🔥 You can simply call me, **FEEN**.
-- 🏫 3rd year student , **CPE37 @ KMUTT**.
-- 🌱 I’m currently exploring the **full data lifecycle**.
-- 🎯 I'm passionate about building software skills through hands-on experience.
+**Phoorin Chinphuad** · 4th-year Computer Engineering student @ KMUTT (CPE37)
 
-📧 **REACH ME** pheen.phoorin@gmail.com
+- Former Data Analysis Intern @ **PTTEP**
+- Exploring the world of data, ai and software development
 
----
+### contact
 
-![Feen's GitHub stats](https://github-readme-stats.vercel.app/api?username=2005fpp&show_icons=true&hide_title=true&count_private=true&theme=radical) ![Feen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2005fpp&layout=compact&theme=radical)
+[Email me](mailto:pheen.phoorin@gmail.com) · [GitHub](https://github.com/2005fpp)
